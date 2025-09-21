@@ -1,6 +1,6 @@
-# 🚀 Facebook Group Marketing Tool 5.3.3
+# 🚀 Facebook Group Marketing Tool 5.3.7
 
-![Version](https://img.shields.io/badge/Version-5.3.3-blue) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey) ![License](https://img.shields.io/badge/License-Lifetime-green) ![Compliance](https://img.shields.io/badge/Compliance-Facebook_ToS-important)
+![Version](https://img.shields.io/badge/Version-5.3.7-blue) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey) ![License](https://img.shields.io/badge/License-Lifetime-green) ![Compliance](https://img.shields.io/badge/Compliance-Facebook_ToS-important)
 
 **Supercharge your Facebook marketing, research, and community management with advanced automation tools.**  
 *Fully compatible with Facebook's 2025 updates | Lifetime license & free updates included*
