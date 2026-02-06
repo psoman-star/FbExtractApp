@@ -6,6 +6,24 @@
     extract groups and members, send automated messages, add friends, and schedule daily group posts — all from one clean interface.
 </p>
 
+The tool helps streamline daily Facebook operations by organizing posting, messaging, and data extraction
+into a single, clean, and easy-to-use interface.
+
+
+## Features
+
+- Multi-account Facebook management  
+- Facebook group extraction  
+- Group member extraction  
+- Automated message sending  
+- Friend request automation  
+- Daily group post scheduling  
+- Task queue system with real-time logs  
+- Controlled delays for safer operations  
+- Clean and intuitive user interface  
+
+---
+
 
 ## 📞 Support
 **Contact**:  
